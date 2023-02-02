@@ -1,4 +1,4 @@
-![Loading_Screen](https://user-images.githubusercontent.com/110716002/216021210-0ee0c7fd-7d37-4fb8-a22d-fe78b106733c.png)
-
-
-![Main_Window](https://user-images.githubusercontent.com/110716002/216021249-ea8fbc4f-d8e9-496e-b330-c979b65b2997.png)
+![MasterHead](https://devtechnosys.com/insights/wp-content/uploads/2022/01/Python.gif)
+<h1 align="center">Hi 👋, I'm Manzoor Ahmed Shaikh</h1>
+<h3 align="center">A Enthusiastic Python & AI Developer from Pakistan</h3>
+<img align="right" alt="Python Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
